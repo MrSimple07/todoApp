@@ -74,16 +74,6 @@
   }
 }
 
-@media screen and (max-width: 1040px){
-  .app{
-    width: 60%;
-    height: 60%;
-    margin-left: 20%;
-  }
-  .todo__list{
-    padding: 15px;
-  }
-}
 
 
 
